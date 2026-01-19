@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: app-config
+data:
+  SECRET_KEY: "my-secret-key-kubernetes-2026"
+  AUTH_SERVICE_URL: "http://auth-service:5000"
