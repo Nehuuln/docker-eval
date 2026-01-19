@@ -332,3 +332,26 @@ minikube service frontend
 minikube ip
 kubectl get service frontend
 ```
+
+### Screenshots TP
+
+## TP 1 
+
+![TP1](screenshots/tp1-bonjour.png)
+
+![TP1](screenshots/tp1-image-docker.png)
+
+## TP2
+
+Voir repository github : https://github.com/Nehuuln/ingnum
+
+![TP2](screenshots/tp2-image-docker.png)
+
+![TP2](screenshots/tp2-java-http.png)
+
+![TP2](screenshots/tp2-php-http.png)
+
+## TP3
+
+Voir repository github : https://github.com/Nehuuln/tp-kubernetes  
+Dossier ./screenshot/
